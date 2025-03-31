@@ -1,0 +1,75 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		335873CE2D9A925300A9E224 /* gugudan.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = gugudan.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		335873C72D9A919900A9E224 = {
+			isa = PBXGroup;
+			children = (
+				335873CE2D9A925300A9E224 /* gugudan.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		335873C82D9A919900A9E224 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1620;
+			};
+			buildConfigurationList = 335873CB2D9A919900A9E224 /* Build configuration list for PBXProject "fastcampus-fp" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 335873C72D9A919900A9E224;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		335873CC2D9A919900A9E224 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		335873CD2D9A919900A9E224 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		335873CB2D9A919900A9E224 /* Build configuration list for PBXProject "fastcampus-fp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				335873CC2D9A919900A9E224 /* Debug */,
+				335873CD2D9A919900A9E224 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 335873C82D9A919900A9E224 /* Project object */;
+}
